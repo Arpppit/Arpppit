@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arpppit
-- 👀 I’m interested in tinkering everything
-- 🌱 I’m currently learning salesforce development
+- 👀 I’m interested in tinkering react apps 
+- 🌱 I’m currently learning Cloud Technologies
 - 💞️ I’m looking to collaborate on intresting projects
 - 📫 You can reach me through email : arppitmadankar@gmail.com / or just say Hi
 
