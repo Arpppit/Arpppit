@@ -30,12 +30,7 @@ My name is Arppit Madankar and I"m a Software Engineer who is passionate about b
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpppit&show_icons=true&locale=en&layout=compact&theme=radical" alt="arppit" /></p>
-
- 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpppit&theme=radical" alt="arunsridher" /></p>
- 
- <br />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arpppit&theme=shades-of-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arpppit&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 <!---
