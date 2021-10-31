@@ -1,13 +1,11 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/arunsridher/">
+<a href="https://www.linkedin.com/in/arppit-madankar-6892731bb/">
   <img align="left" alt="Arunsridher's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/arunsridher">
-  <img align="left" alt="Arunsridher | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=arunsridher)
+
+![](https://visitor-badge.glitch.me/badge?page_id=Arpppit)
 
 My name is Arppit Madankar and I"m a Software Engineer who is passionate about building tech, solving problems and learning new technologies 
 
@@ -32,14 +30,14 @@ My name is Arppit Madankar and I"m a Software Engineer who is passionate about b
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunsridher&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunsridher" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpppit&show_icons=true&locale=en&layout=compact&theme=radical" alt="arppit" /></p>
 
  
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsridher&theme=radical" alt="arunsridher" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpppit&theme=radical" alt="arunsridher" /></p>
  
  <br />
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arunsridher&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arpppit&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 <!---
 Arpppit/Arpppit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
