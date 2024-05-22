@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Currently immersed in Python backend engines and payment services. Balancing time between work and personal projects, aiming to add more soon. 🕒 Currently diving into GO-lang and System design. Fascinated by how systems scale, especially database internals. 💻 Besides coding, I unwind with gaming 🎮 and rock music jam sessions 🎸. Let's connect on arppitmadankar@gmail.com or LinkedIn! 📧🔗
+🚀 Currently immersed in  backend engines and payment services. Balancing time between work and personal projects, aiming to add more soon. 🕒 Currently diving into GO-lang and System design. Fascinated by how systems scale, especially database internals. 💻 Besides coding, I unwind with gaming 🎮 and rock music jam sessions 🎸. Let's connect on arppitmadankar@gmail.com or LinkedIn! 📧🔗
 
 
 ## 🌐 Socials:
